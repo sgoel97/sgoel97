@@ -6,15 +6,15 @@ A little bit about me:
 - I'm an undergrad at UC Berkeley studying Computer Science and Business Administration with a minor in Data Science
 - I'm the President of Web Development at Berkeley, UC Berkeley's premier web development education and development organization
 - I'm the President and Founder of Cloud at Cal, UC Berkeley's first cloud consulting organization
-- I'm extremely interested in Quantum Computing and Cloud technologies, and am a part of Quantum Computing at Berkeley
+<!-- - I'm extremely interested in Quantum Computing and Cloud technologies, and am a part of Quantum Computing at Berkeley
 - The psychology and details of product fascinates me, and I'd love to get more involved with product management
-<!-- - I'm a huge fan of finance and specifically quantitive finance, which is a field I very much want to learn more about -->
+ - I'm a huge fan of finance and specifically quantitive finance, which is a field I very much want to learn more about -->
 
 Some more:
-- 🔭 I’m currently trying to figure out how to triple major in phsyics
+<!-- - 🔭 I’m currently trying to figure out how to triple major in phsyics -->
 - 🌱 I’m currently learning Algorithmic Trading, Product Management, Quantum Computing, and Blockchain
 - 👯 I’m looking to collaborate on a formal mathematical paper explaining how division by zero is equal to infinity
-- 🤔 I’m looking for help with understanding options theory
+<!-- - 🤔 I’m looking for help with understanding options theory -->
 - 💬 Ask me about physics, I can go on for hours about black holes and time dilation
 - 📫 How to reach me: sgoel9@berkeley.edu
 - 😄 Pronouns: He/Him/His
