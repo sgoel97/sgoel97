@@ -5,7 +5,7 @@ Welcome to my Github! My personal website is currently being built, so I'm using
 A little bit about me:
 - I'm an undergrad at UC Berkeley studying Computer Science and Business Administration with a minor in Data Science
 - I'm the President of Web Development at Berkeley, UC Berkeley's premier web development education and development organization
-- I'm the President and Founder of Cloud at Cal, UC Berkeley's first cloud consulting organization
+- I'm the President of Cloud at Cal, UC Berkeley's first cloud consulting organization
 - I'm extremely interested in Quantum Computing and Cloud technologies, and am a part of Quantum Computing at Berkeley
 <!-- - The psychology and details of product fascinates me, and I'd love to get more involved with product management
  - I'm a huge fan of finance and specifically quantitive finance, which is a field I very much want to learn more about -->
@@ -19,6 +19,19 @@ Some more:
 - 📫 How to reach me: sgoel9@berkeley.edu
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love men's gymnastics and used to be a gymnast myself!
+
+# Skills
+
+Web/Mobile- React, React Native, Typescript, Javacript, HTML, CSS
+Backend - NodeJS, Express, Python, Java, MongoDB, MySQL, REST
+Devops - AWS, Git, Agile, Scrum
+Design - Figma
+Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Computing, Blockchain
+
+# Links
+
+(Personal Website)[www.samarthgoel.com] - Portfolio of my creative work
+Linkedin - Learn more about me :)
 
 <!--
 **sgoel97/sgoel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
