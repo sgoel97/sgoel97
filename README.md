@@ -36,11 +36,11 @@ Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Comp
 ### Organization and Leadership
 
 President @ Web Development at Berkeley  
-President @ Cloud at California
-Development Lead @ Traders at Berkeley
-Quantitative Analyst @ Capital Investments at Berkeley
-Member @ Quantum Computing at Berkeley
-Member @ IEEE and CSUA
+President @ Cloud at California  
+Development Lead @ Traders at Berkeley  
+Quantitative Analyst @ Capital Investments at Berkeley  
+Member @ Quantum Computing at Berkeley  
+Member @ IEEE and CSUA  
 
 ### Teaching
 
