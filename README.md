@@ -30,12 +30,12 @@ Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Comp
 
 ### Links
 
-[Personal Website](www.samarthgoel.com) - Portfolio of my creative work
+[Personal Website](www.samarthgoel.com) - Portfolio of my creative work  
 Linkedin - Learn more about me :)
 
 ### Organization and Leadership
 
-President @ Web Development at Berkeley
+President @ Web Development at Berkeley  
 President @ Cloud at California
 
 <!--
