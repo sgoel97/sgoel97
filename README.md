@@ -22,21 +22,30 @@ Some more:
 
 ### Skills
 
-Web/Mobile- React, React Native, Typescript, Javacript, HTML, CSS
-Backend - NodeJS, Express, Python, Java, MongoDB, MySQL, REST
-Devops - AWS, Git, Agile, Scrum
-Design - Figma
-Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Computing, Blockchain
+Web/Mobile- React, React Native, Typescript, Javacript, HTML, CSS  
+Backend - NodeJS, Express, Python, Java, MongoDB, MySQL, REST  
+Devops - AWS, Git, Agile, Scrum  
+Design - Figma  
+Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Computing, Blockchain  
 
 ### Links
 
 [Personal Website](www.samarthgoel.com) - Portfolio of my creative work  
-Linkedin - Learn more about me :)
+[Linkedin](https://www.linkedin.com/in/samarth-goel-1047b8187/) - Learn more about me :)
 
 ### Organization and Leadership
 
 President @ Web Development at Berkeley  
 President @ Cloud at California
+Development Lead @ Traders at Berkeley
+Quantitative Analyst @ Capital Investments at Berkeley
+Member @ Quantum Computing at Berkeley
+Member @ IEEE and CSUA
+
+### Teaching
+
+Full Stack Educator @ Web Development at Berkeley  
+Teaching Assistant @ Introdiction to Algorithmic Thinking
 
 <!--
 **sgoel97/sgoel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
