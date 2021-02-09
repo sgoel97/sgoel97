@@ -20,7 +20,7 @@ Some more:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love men's gymnastics and used to be a gymnast myself!
 
-# Skills
+### Skills
 
 Web/Mobile- React, React Native, Typescript, Javacript, HTML, CSS
 Backend - NodeJS, Express, Python, Java, MongoDB, MySQL, REST
@@ -28,10 +28,15 @@ Devops - AWS, Git, Agile, Scrum
 Design - Figma
 Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Computing, Blockchain
 
-# Links
+### Links
 
-(Personal Website)[www.samarthgoel.com] - Portfolio of my creative work
+[Personal Website](www.samarthgoel.com) - Portfolio of my creative work
 Linkedin - Learn more about me :)
+
+### Organization and Leadership
+
+President @ Web Development at Berkeley
+President @ Cloud at California
 
 <!--
 **sgoel97/sgoel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
