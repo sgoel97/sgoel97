@@ -45,7 +45,7 @@ Member @ IEEE and CSUA
 ### Teaching
 
 Full Stack Educator @ Web Development at Berkeley  
-Teaching Assistant @ Introdiction to Algorithmic Thinking
+Teaching Assistant @ CS 198-112: Introduction to Algorithmic Thinking
 
 <!--
 **sgoel97/sgoel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
