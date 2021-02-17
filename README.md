@@ -5,8 +5,7 @@ Welcome to my Github! My personal website is currently being built, so I'm using
 A little bit about me:
 - I'm an undergrad at UC Berkeley studying Computer Science and Business Administration with a minor in Data Science
 - I'm the President of Web Development at Berkeley, UC Berkeley's premier web development education and development organization
-- I'm the President of Cloud at Cal, UC Berkeley's first cloud consulting organization
-- I'm extremely interested in Quantum Computing and Cloud technologies, and am a part of Quantum Computing at Berkeley
+- I'm extremely interested in Quantum Computing and am a part of Quantum Computing at Berkeley
 <!-- - The psychology and details of product fascinates me, and I'd love to get more involved with product management
  - I'm a huge fan of finance and specifically quantitive finance, which is a field I very much want to learn more about -->
 
