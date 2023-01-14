@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my Github! My personal website is currently being built, so I'm using Github as a replacement for now.
+Welcome to my Github!
 
 A little bit about me:
 - I'm an undergrad at UC Berkeley studying Computer Science and Business Administration with a minor in Data Science
