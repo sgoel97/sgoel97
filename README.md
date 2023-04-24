@@ -29,18 +29,17 @@ Misc - AI/ML, Data Science, Solidity and Blockchain Dev
 
 ### Links
 
-[Personal Website](www.samarthgoel.com) - My personal website
-
+[Personal Website](www.samarthgoel.com) - My personal website   
 [Linkedin](https://www.linkedin.com/in/samarth-goel-1047b8187/) - Learn more about me :)
 
 ### Organization and Leadership
 
-President @ Traders at Berkeley
-Founder and President @ Quantitative Investments at Berkeley
-Founder and President @ Poker at Berkeley
+President @ Traders at Berkeley   
+Founder and President @ Quantitative Investments at Berkeley   
+Founder and President @ Poker at Berkeley   
 Founder and President @ Web Development at Berkeley  
 Founder and President @ Cloud at California   
-Developer @ Blockchain at Berkeley
+Developer @ Blockchain at Berkeley   
 
 ### Teaching
 
