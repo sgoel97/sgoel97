@@ -30,6 +30,7 @@ Misc - AI/ML, Data Science, Solidity and Blockchain Dev
 ### Links
 
 [Personal Website](www.samarthgoel.com) - My personal website
+
 [Linkedin](https://www.linkedin.com/in/samarth-goel-1047b8187/) - Learn more about me :)
 
 ### Organization and Leadership
