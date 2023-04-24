@@ -43,8 +43,8 @@ Developer @ Blockchain at Berkeley
 
 ### Teaching
 
-Course Staff @ Stat 135: Concepts of Statistics
-Tutor @ Data 140: Probability for Data Science
+Course Staff @ Stat 135: Concepts of Statistics    
+Tutor @ Data 140: Probability for Data Science   
 Full Stack Educator @ Introduction to Full-Stack Development  
 Teaching Assistant @ CS 198-112: Introduction to Algorithmic Thinking
 
