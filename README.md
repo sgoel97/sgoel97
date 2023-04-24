@@ -3,9 +3,9 @@
 Welcome to my Github!
 
 A little bit about me:
-- I'm an undergrad at UC Berkeley studying Computer Science and Business Administration with a minor in Data Science
-- I'm the President of Web Development at Berkeley, UC Berkeley's premier web development education and development organization
-- I'm extremely interested in Quantum Computing and am a part of Quantum Computing at Berkeley
+- I'm an undergrad at UC Berkeley studying Computer Science, Statistics, and Business Administration with a minor in Data Science
+<!-- - I'm the President of Web Development at Berkeley, UC Berkeley's premier web development education and development organization -->
+<!-- - I'm extremely interested in Quantum Computing and am a part of Quantum Computing at Berkeley -->
 <!-- - The psychology and details of product fascinates me, and I'd love to get more involved with product management -->
 <!-- - I'm a huge fan of finance and specifically quantitive finance, which is a field I very much want to learn more about -->
 
@@ -21,29 +21,31 @@ A little bit about me:
 
 ### Skills
 
-Web/Mobile- React, React Native, Typescript, Javacript, HTML, CSS  
-Backend - NodeJS, Express, Python, Java, MongoDB, MySQL, REST  
+Web/Mobile- React, React Native, Typescript, Javacript, HTML, CSS
+Backend - NodeJS, Express, Python, Java, MongoDB, MySQL, REST
 Devops - AWS, Git, Agile, Scrum  
 Design - Figma  
-Misc - Machine Learning, Data Engineering, Artificial Intelligence, Quantum Computing, Blockchain  
+Misc - AI/ML, Data Science, Solidity and Blockchain Dev  
 
 ### Links
 
-[Personal Website](www.samarthgoel.com) - Portfolio of my creative work  
+[Personal Website](www.samarthgoel.com) - My personal website
 [Linkedin](https://www.linkedin.com/in/samarth-goel-1047b8187/) - Learn more about me :)
 
 ### Organization and Leadership
 
-President @ Web Development at Berkeley  
-President @ Cloud at California  
-Development Lead @ Traders at Berkeley  
-Quantitative Analyst @ Capital Investments at Berkeley  
-Member @ Quantum Computing at Berkeley  
-Member @ IEEE and CSUA  
+President @ Traders at Berkeley
+Founder and President @ Quantitative Investments at Berkeley
+Founder and President @ Poker at Berkeley
+Founder and President @ Web Development at Berkeley  
+Founder and President @ Cloud at California   
+Developer @ Blockchain at Berkeley
 
 ### Teaching
 
-Full Stack Educator @ Web Development at Berkeley  
+Course Staff @ Stat 135: Concepts of Statistics
+Tutor @ Data 140: Probability for Data Science
+Full Stack Educator @ Introduction to Full-Stack Development  
 Teaching Assistant @ CS 198-112: Introduction to Algorithmic Thinking
 
 <!--
