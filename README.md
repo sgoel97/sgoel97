@@ -6,7 +6,7 @@ My name is Samarth Goel, a startup enthusiast, musician, athlete, aspiring chef,
 
 I'm currently majoring in Computer Science, Business, and Statistics with a minor in Data Science.
 
-Interested in working together, or just want to talk? Feel free to email me at sgoel9@berkeley.edu or check out my website and portfolio at [samarthgoel.com](www.samarthgoel.com).
+Interested in working together, or just want to talk? Feel free to email me at sgoel9@berkeley.edu or check out my website and portfolio at [samarthgoel.com](https://dev.samarthgoel.com/).
 
 <!--
 **sgoel97/sgoel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
