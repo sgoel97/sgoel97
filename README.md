@@ -4,7 +4,7 @@ Welcome to my Github!
 
 My name is Samarth Goel, a startup enthusiast, musician, athlete, aspiring chef, and student at UC Berkeley. 
 
-I'm currently majoring in Computer Science, Business, and Statistics with a minor in Data Science.
+I'm currently a grad student at UC Berkeley researching Transformers and LLMs.
 
 Interested in working together, or just want to talk? Feel free to email me at sgoel9@berkeley.edu or check out my website and portfolio at [samarthgoel.com](https://dev.samarthgoel.com/).
 
